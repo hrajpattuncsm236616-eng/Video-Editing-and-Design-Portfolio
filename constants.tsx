@@ -84,7 +84,7 @@ export const PROJECTS: Project[] = [
     title: 'Music Festival Poster',
     category: ProjectCategory.GRAPHIC,
     subcategory: 'Posters',
-    thumbnail: '/Fitness Trainer final.png',
+    thumbnail: 'https://drive.google.com/file/d/13KBFiHuhrHddUXBReBsFBz-GBRD-IfbC/view?usp=drive_link',
     format: 'vertical',
     description: 'Event poster for summer festival.',
     client: 'SummerVibes',
